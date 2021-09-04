@@ -5,7 +5,7 @@ var redoArray = [];
 
 // Create the script tag, set the appropriate attributes
 var script = document.createElement('script');
-script.src = 'https://maps.googleapis.com/maps/api/js?key=AIzaSyClqTR4nli9shcBqpSbidT2JsKV6XRMlBY&callback=initMap&libraries=drawing';
+script.src = 'https://maps.googleapis.com/maps/api/js?key='+config.googleAPI+'&callback=initMap&libraries=drawing';
 script.async = true;
 
 var pos;

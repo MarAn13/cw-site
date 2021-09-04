@@ -101,6 +101,7 @@ if (!isset($_SESSION['specialist_place_of_operation']) &&
         </div>
     </div>
     <!-- own js -->
+    <script src="../js/config.js"></script>
     <script src="../js/choose.js"></script>
 </body>
 

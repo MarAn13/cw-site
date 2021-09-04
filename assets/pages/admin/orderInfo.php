@@ -184,6 +184,7 @@ $_SESSION['admin_current_order_id'] = $order_id;
             echo json_encode($order['order_place_info']);
             ?>;
     </script>
+    <script src="../../js/config.js"></script>
     <script src="../../js/admin/orderInfo.js"></script>
     <script src="../../js/nav.js"></script>
     <script>
