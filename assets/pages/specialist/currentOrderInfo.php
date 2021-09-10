@@ -181,7 +181,7 @@ $_SESSION['specialist_current_order_id'] = $order_id;
                                 echo $message_number;
                                 ?>
     </script>
-    <script src="../../js/config.js"></script>
+    <script src="../../../config.js"></script>
     <script src="../../js/specialist/currentOrderInfo.js"></script>
     <script src="../../js/nav.js"></script>
 </body>

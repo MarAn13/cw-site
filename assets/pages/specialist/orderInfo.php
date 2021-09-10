@@ -115,7 +115,7 @@ $order['specialist_place_info'] = to_array($order['specialist_place_info']);
             echo json_encode($order['specialist_place_info']);
             ?>;
     </script>
-    <script src="../../js/config.js"></script>
+    <script src="../../../config.js"></script>
     <script src="../../js/specialist/orderInfo.js"></script>
     <script src="../../js/nav.js"></script>
 </body>

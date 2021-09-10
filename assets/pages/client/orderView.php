@@ -182,7 +182,7 @@ if ($order['order_video_type'] === 'video') {
             echo json_encode($order['order_place_info']);
             ?>;
     </script>
-    <script src="../../js/config.js"></script>
+    <script src="../../../config.js"></script>
     <script src="../../js/client/orderView.js"></script>
     <script src="../../js/nav.js"></script>
     <script>
